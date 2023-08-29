@@ -5,7 +5,7 @@ Frontend Mentor challenges help me improve my coding skills by building realisti
 
 # Links 
 - Solution URL: https://github.com/YADOJI/QR-Code-Component/tree/master
-- Live Site URL: [Add live site URL here]
+- Live Site URL: https://yadoji.github.io/QR-Code-Component/
 
 #Built With
 - Semantic HTML5 markup
